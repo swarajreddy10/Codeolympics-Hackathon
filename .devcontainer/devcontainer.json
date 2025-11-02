@@ -1,0 +1,12 @@
+{
+  "name": "ZenZone — System Guardian Pro",
+  "image": "mcr.microsoft.com/devcontainers/python:3.11",
+  "postCreateCommand": "echo 'Run ./run_demo.sh or DEMO=1 python system_guardian_pro.py'",
+  "customizations": {
+    "vscode": {
+      "settings": {
+        "terminal.integrated.defaultProfile.linux": "bash"
+      }
+    }
+  }
+}

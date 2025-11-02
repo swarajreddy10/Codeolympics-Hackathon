@@ -1,0 +1,14 @@
+{
+  "monitor_interval": 5,
+  "cpu_threshold": 80,
+  "memory_threshold": 85,
+  "disk_threshold": 90,
+  "temp_dirs": [
+    "C:\\Users\\swara\\AppData\\Local\\Temp",
+    "C:/Windows/Temp",
+    "C:\\Users\\swara\\Downloads"
+  ],
+  "log_retention_days": 7,
+  "auto_cleanup": true,
+  "max_file_age_days": 30
+}

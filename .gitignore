@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+guardian_report_*.txt
+.DS_Store
+.venv/
+.env
